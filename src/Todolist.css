@@ -13,3 +13,8 @@
 .is-done {
   opacity: 0.5;
 }
+
+.todolist-title{
+  display: flex;
+  align-items: center;
+}
